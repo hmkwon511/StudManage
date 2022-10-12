@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menuHome"
+        app:showAsAction="never"
+        android:title="홈" />
+    <item
+        android:id="@+id/menuInsert"
+        app:showAsAction="never"
+        android:title="학생등록" />
+    <item
+        android:id="@+id/menuList"
+        app:showAsAction="never"
+        android:title="학생목록" />
+    <item
+        android:id="@+id/menuSearch"
+        app:showAsAction="never"
+        android:title="정보검색" />
+</menu>
